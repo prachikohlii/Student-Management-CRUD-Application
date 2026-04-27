@@ -35,5 +35,5 @@ Student management system built using Flask, MySQL, HTML, CSS and Bootstrap
 * Pagination
 * Login authentication
 
-* This project was built as part of learning Flask CRUD concepts, inspired by an online tutorial, and then organized and documented independently for practice.
+This project was built as part of learning Flask CRUD concepts, inspired by an online tutorial, and then organized and documented independently for practice.
 
